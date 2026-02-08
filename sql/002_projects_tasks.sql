@@ -32,7 +32,7 @@ create table tasks(
 	INDEX idx_tasks_project_status (project_id, status)
 );
 
-SHOW CREATE TABLE tasks;
+
     
 
     
