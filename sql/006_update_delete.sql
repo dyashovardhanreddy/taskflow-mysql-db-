@@ -62,4 +62,5 @@ delete from users where id = 5;
 
 select * from tasks;
 
+--- Test B: RESTRICT
 delete from users where id = 2;
